@@ -1,3 +1,3 @@
 # HearMusic
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-gujfvl)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/hearmusic)
